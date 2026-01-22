@@ -1,0 +1,234 @@
+.mother {
+    width: 100%;
+    height: 850px;
+    background-color: black;
+}
+
+.image {
+    background-color: aqua;
+    height: 55px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 50px;
+
+}
+
+.header {
+    background-color: rgb(205, 9, 9);
+    height: 500px;
+    width: 385px;
+    margin-left: 325px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+align-items: center;
+    /* align-content: center; */
+    text-align: center;
+    font-size: medium;
+}
+
+.sec1 {
+    background-color: blue;
+    height: 290px;
+    width: 200px;
+    margin-left: 724px;
+    margin-top: -500px;
+    margin-bottom: 10px;
+
+
+}
+
+
+.sec2 {
+    background-color: rgb(5, 202, 44);
+    height: 200px;
+    width: 200px;
+    margin-left: 724px;
+ 
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.sec3 {
+    background-color: rgb(232, 198, 4);
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    margin-top: 10px;
+    align-content: center;
+
+}
+
+/* .me1 {
+    color: rgb(250, 250, 250);
+    background-color: black;
+    margin-bottom: 80px;
+    margin-left: 20px;
+}
+
+.me2 {
+    color: rgb(250, 250, 250);
+    background-color: black;
+margin-left: 20px;
+}
+
+.me3 {
+    color: rgb(250, 248, 248);
+    background-color: black;
+margin-left: 20px;
+margin-top: 10px;
+} */
+
+/* .her1 {
+    background-color: blueviolet;
+    width: 100px;
+    height: 145px;
+    float: left;
+}
+
+.her2 {
+    background-color: rgb(171, 8, 8);
+    width: 100px;
+    height: 145px;
+    float: left;
+    margin-top: 145px;
+} */
+img {
+    height: 500px;
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(4, 148, 100);
+    height: 50px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+table {
+    border: 3;
+    background-color: coral;
+    width: 200px;
+    height: 100px;
+    margin-left: 200px;
+
+}
+
+.mother2 {
+    width: 100%;
+    height: 1950px;
+    background-color: rgb(5, 1, 1);
+}
+
+.index1 {
+    background-color: rgb(143, 11, 110);
+    height: 500px;
+    width: 49%;
+    align-items: center;
+    /* align-content: center; */
+    text-align: center;
+    /* margin-left: 230px; */
+}
+
+.index2 {
+    background-color: rgb(248, 46, 10);
+    height: 500px;
+    width: 49%;
+    margin-top: -500px;
+    margin-bottom: 10px;
+    margin-left: 637px;
+}
+
+.index3 {
+    background-color: rgb(8, 209, 24);
+    height: 22px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 50px;
+
+}
+
+.index4 {
+    background-color: rgb(70, 150, 241);
+    height: 300px;
+    width: 100%;
+    /* margin: auto; */
+    margin-top: 10px;
+    /* margin-left: 230px; */
+align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.index5 {
+    background-color: rgb(3, 174, 40);
+    height: 300px;
+    width: 100%;
+    /* margin: auto; */
+    margin-top: 10px;
+    /* margin-left: 230px; */
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+section{
+    background-image: url(photo.png) ;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+   text-align: center;
+   color: azure;
+align-items: center;
+    align-content: center;
+    text-align: center;
+    font-size: larger;
+    
+}
+
+.mother3 {
+    width: 100%;
+    height: 1170px;
+    background-color: rgb(2, 0, 0);
+}
+
+.cont1 {
+    background-color: aqua;
+    height: 22px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 50px;
+
+}
+
+.cont2 {
+    background-color: rgb(205, 9, 9);
+    height: 500px;
+    width: 650px;
+    margin-left: 325px;
+}
+
+.cont3 {
+    background-color: rgb(232, 198, 4);
+    height: 200px;
+    width: 650px;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 325px;
+}
+
+.input1 {
+    background-color: blanchedalmond;
+    height: 250px;
+    width: 650px;
+    margin-top: 10px;
+    margin-left: 325px;
+    align-content: center;
+    text-align: center;
+}
+
+
+
